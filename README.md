@@ -1,14 +1,10 @@
 # tic-tac-toe-with-ai
 
 To start the game enter: 
-`Input command: > start {level} user`
-{level} - player X
-user - player O
+`Input command: > start {level} user`, where {level} - player X, user - player O
 
 The order is matter:
-`Input command: > start user {level}`
-user - player X
-{level} - player O
+`Input command: > start user {level}`, where user - player X, {level} - player O
 
 There are three level: `easy`, `medium`, `hard`
 
