@@ -13,18 +13,21 @@ user - player X
 There are three level: `easy`, `medium`, `hard`
 
 Write the coordinates of your move in the way: x y, where x the column and y - the row:
-`Enter the coordinates: > 2 2
+```
+Enter the coordinates: > 2 2
 ---------
 |       |
 |   O   |
 |       |
----------`
+---------
+```
 
 To exit write:
 `Input command: > exit`
 
 Example:
-`Input command: > start hard user
+```
+Input command: > start hard user
 Making move level "hard"
 ---------
 |       |
@@ -69,4 +72,5 @@ Making move level "hard"
 ---------
 X wins
 
-Input command: > exit`
+Input command: > exit
+```
