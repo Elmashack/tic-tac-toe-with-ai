@@ -12,7 +12,6 @@ user - player X
 
 There are three level: "easy", "medium", "hard"
 
-
 Write the coordinates of your move in the way: x y, where x the column and y - the row:
 Enter the coordinates: > 2 2
 ---------
@@ -20,7 +19,6 @@ Enter the coordinates: > 2 2
 |   O   |
 |       |
 ---------
-
 
 To exit write:
 Input command: > exit
