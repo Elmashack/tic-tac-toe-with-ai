@@ -57,7 +57,7 @@ class TicToe:
     def user_move(self):
         while True:
             try:
-                y, x = map(int, input('Enter the coordinates: > ').split())
+                x, y = map(int, input('Enter the coordinates: > ').split())
             except ValueError:
                 print('You should enter numbers!')
                 continue
