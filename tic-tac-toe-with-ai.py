@@ -139,7 +139,7 @@ class MediumLevel(TicToe):
             y = diagonal_cells.index(' ')
             self.y, self.x = y + 1, y + 1
             return 1
-        if diagonal_cells1.count(sign) == 2 and diagonal_cells.count(' ') == 1:
+        if diagonal_cells1.count(sign) == 2 and diagonal_cells1.count(' ') == 1:
             y = diagonal_cells1.index(' ')
             self.y, self.x = y + 1, 3 - y
             return 1
