@@ -42,7 +42,7 @@ Making move level "hard"
 | X O   |
 |       |
 ---------
-Enter the coordinates: > 3 2
+Enter the coordinates: > 2 3
 ---------
 |   X   |
 | X O   |
@@ -54,7 +54,7 @@ Making move level "hard"
 | X O   |
 |   O   |
 ---------
-Enter the coordinates: > 3 1
+Enter the coordinates: > 1 3
 ---------
 | X X   |
 | X O   |
